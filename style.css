@@ -1,0 +1,57 @@
+
+
+
+
+.imagem-carrossel {
+
+    height: 500px;
+
+
+
+}
+
+
+#carouselExampleControls {
+
+    background-color: aliceblue;
+    position: absolute;
+    bottom: 30px;
+    left: 50px;
+    display: flex;
+    position:relative;
+    
+
+    }
+
+
+    p{
+
+
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        right: 100%;
+
+
+
+
+
+
+    }
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+    
+
